@@ -63,7 +63,7 @@ Measures how much money a customer spends.
 
 ### 3. Customer Details
 
-![Customer Details](./CUSTOMER%20DETAILS.png)
+![Customer Details](<CUSTOMER DETAILS.png>)
 
 ### 4. Segment Description
 
