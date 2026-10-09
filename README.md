@@ -31,5 +31,18 @@ The dashboard helps identify customer segments and provides insights to support 
 - Sales analysis by customer group
 - Marketing recommendations
 
+## Dashboard Preview
+
+### Customer Demographics
+![Customer Demographics](customer-demographics.png)
+
+### Customer Segmentation
+![Customer Segmentation](customer-segmentation.png)
+
+### Customer Details
+![Customer Details](customer-details.png)
+
+### Segment Description
+![Segment Description](segment-description.png) 
 ## Author
 Muktha Latha Deepika P
